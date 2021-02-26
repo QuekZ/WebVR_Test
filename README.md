@@ -14,7 +14,7 @@ This is how the Scene looks alike. Through the press of the Button on the bottom
 After the pressing the Button you will get this:
 ![screenshot2](https://raw.githubusercontent.com/QuekZ/WebVR_Test/main/src/client/screenshots/screenshot2.PNG)
 
-You can also use  cylinders as your controlers. You could use all kinds of geometries or you could also load a 3D file with the GLTF Loader.
+For this example i used cylinders as controlers. You could use all kinds of geometries or you could  load a 3D file with the GLTF Loader.
 
 here is a screenshot of the controlers:
 ![screenshot3](https://raw.githubusercontent.com/QuekZ/WebVR_Test/main/src/client/screenshots/screenshot3.PNG)
