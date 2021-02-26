@@ -18,5 +18,5 @@ You can also use  cylinders as your controlers. You could use all kinds of geome
 here is a screenshot of the controlers:
 ![screenshot3](https://raw.githubusercontent.com/QuekZ/WebVR_Test/main/src/client/screenshots/screenshot3.PNG)
 
-I wanted to test my little Project but unfortunately i dont own a VR Headset. Thereforei found an emulator for the Browser in which i can move and rotate the Controllers and the Headset. Its quite clunky obviously but it does its job!
+I wanted to test my little Project but unfortunately i dont own a VR Headset. Therefore I used an emulator for the Browser in which you can move and rotate the Controllers and the Headset. Its quite clunky obviously but it does its job!
 ![screenshot4](https://raw.githubusercontent.com/QuekZ/WebVR_Test/main/src/client/screenshots/screenshot4.PNG)
