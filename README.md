@@ -1,7 +1,9 @@
 # Web VR Demo made with Three.js (WebXR), Node.js(Express) and TypeScript
 
-For this Project I used the Boilerplate made by Sean Bradleys for his Udemy Course: 
+For this Project I used the Boilerplate made by Sean Bradleys from his Udemy Course: 
 * [ThreeJS and TypeScript Course](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F)
+
+I used the Packt Three.js Book and the Udemy Course to learn the basics and tried out to learn WebXR trought the Three.js Documentation
 
 
 # WebXR
